@@ -150,8 +150,10 @@ table.table  {
     font-weight: normal;
 }	
 #addEmployeeModal{
-    margin-top: -700px;
     display: none;
+    position: absolute;
+    top: 0;
+    right: 609px;
 }
 
 #editEmployeeModal,#deleteEmployeeModal{
